@@ -54,3 +54,7 @@
 ## Estrutura de pastas
 
 <p align="center"><img src="./media/images/folders-v2.png" width="400" /></p>
+
+## Autor
+
+Enéas Almeida
